@@ -5,7 +5,9 @@ ICPDAO is an open peer-to-peer collaborative ecosystem for building and running 
 
 Free contribution, Autonomous pricing and Automatic settlement 
 
-## Official Website：https://app.icpdao.co/home
+
+## Useful links
+Official Website：https://app.icpdao.co/home
 
 GitHub：https://github.com/icpdao
 
